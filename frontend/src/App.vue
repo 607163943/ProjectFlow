@@ -1,3 +1,9 @@
+<script setup>
+</script>
+
 <template>
-  <div>我是App</div>
+  <router-view />
 </template>
+
+<style lang="less">
+</style>
