@@ -1,0 +1,4 @@
+mysql:
+  database: projectflow
+  username: root
+  password: 123456
